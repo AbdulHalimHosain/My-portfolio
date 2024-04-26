@@ -7,8 +7,15 @@ h1{
     font-size:  50px;
 }
 #highlight{
-    color: rgb(102, 146, 148);
+    color: rgb(82, 82, 172);
 }
 .big{
     font-size: 60px;
+}
+.light{
+        font-weight: normal;
+}
+.half-width{
+    width: 45%;
+    float: left;
 }
