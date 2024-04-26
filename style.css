@@ -1,0 +1,14 @@
+body{
+        font-family: "Merriweather", serif;
+        font-weight: 900;
+        font-style: italic; 
+}
+h1{
+    font-size:  50px;
+}
+#highlight{
+    color: rgb(102, 146, 148);
+}
+.big{
+    font-size: 60px;
+}
