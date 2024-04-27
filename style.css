@@ -56,3 +56,29 @@ section{
     width: 600px;
     height: 600px;
 }
+.single{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+    background-color: white;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#firstone{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#secondone{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(29, 7, 80), rgb(49, 170, 207));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
